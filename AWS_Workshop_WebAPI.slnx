@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AWS_Workshop_Application/AWS_Workshop_Application.csproj" />
+  <Project Path="AWS_Workshop_DataAccess/AWS_Workshop_DataAccess.csproj" />
+  <Project Path="AWS_Workshop_WebAPI/AWS_Workshop_WebAPI.csproj" />
+</Solution>
